@@ -20,6 +20,7 @@ import org.springframework.ui.Model;
 @RestController
 @RequestMapping("auteurs")
 @Api(value = "Auteur Controller")
+
 public class AuteurController {
 
 	

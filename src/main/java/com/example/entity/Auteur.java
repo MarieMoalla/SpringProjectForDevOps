@@ -28,7 +28,12 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Auteur {
-	   public enum Status {
+	   public Auteur(long id, String name) {
+		this.setAuteur_id(id);
+		this.setNom(name);
+	}
+
+	public enum Status {
         DECEDE,
         VIVANT
     }
