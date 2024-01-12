@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-update22fgdf
-=======
 update22fgdffffffff
->>>>>>> Stashed changes
